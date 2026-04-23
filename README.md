@@ -20,3 +20,8 @@ Live Demo -
 - HTML
 - CSS
 - JavaScript
+
+📁 Project Structure
+├── index.html
+├── style.css
+├── script.js
