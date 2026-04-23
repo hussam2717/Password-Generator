@@ -14,3 +14,9 @@ Live Demo -
 - Password strength indicator
 - Copy password to clipboard
 - Clean and responsive UI
+
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
