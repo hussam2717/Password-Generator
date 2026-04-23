@@ -1,4 +1,4 @@
-# Password-Generator
+## Password-Generator
 A simple and modern Password Generator built using HTML, CSS, and JavaScript.   Generate strong, secure passwords with customizable options.
 
 Live Demo - https://hussam2717.github.io/Password-Generator/
