@@ -2,3 +2,15 @@
 A simple and modern Password Generator built using HTML, CSS, and JavaScript.   Generate strong, secure passwords with customizable options.
 
 Live Demo - 
+
+## 🚀 Features
+- Generate random secure passwords
+- Adjustable password length
+- Include:
+  - Uppercase letters (A-Z)
+  - Lowercase letters (a-z)
+  - Numbers (0-9)
+  - Symbols (!@#$%^&*)
+- Password strength indicator
+- Copy password to clipboard
+- Clean and responsive UI
