@@ -25,3 +25,9 @@ Live Demo -
 ├── index.html
 ├── style.css
 ├── script.js
+
+💡 Future Improvements
+Add dark/light mode toggle
+Save password history
+Add password entropy score
+Mobile app version
